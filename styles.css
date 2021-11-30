@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200&display=swap');
 
 body{
-    background-image: url(images/stripes2.jpg);
+    background-image: url(stripes2.jpg);
     text-align: center;
     margin: 5px;
 }
